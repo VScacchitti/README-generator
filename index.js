@@ -1,6 +1,6 @@
 //require modules
-var fs = require("fs");
-var inquirer = require("inquirer");
+const fs = require("fs");
+const inquirer = require("inquirer");
 
 //Prompt function
 
@@ -47,7 +47,7 @@ function promptQuestions() {
       name: "usage",
     },
     {
-      type: "input",
+      type: "list",
       name: "license",
       message: "What kind of license would you like to use?",
       name: "license",
@@ -67,3 +67,14 @@ function promptQuestions() {
 }
 
 promptQuestions();
+
+//write README
+function writeFile(fileName, data) {
+  fs.writeFile(fileName, data, "utf8", function (err) {
+    if (err) {
+      throw err;
+    }
+    console.log("You have successfullt written your README!");
+  });
+}
+//init function
