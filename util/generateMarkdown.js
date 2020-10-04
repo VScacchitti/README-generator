@@ -1,5 +1,8 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
+  const avatar = `https://github.com/${data.username}.png?size=50`;
+  const gitHub = `https://img.shields.io/badge/Github-${data.username}-4cbbb9`;
+
   return `
   # ${data.title}
 
@@ -30,8 +33,8 @@ function generateMarkdown(data) {
   ${data.contributor}
 
   ## Contact
-  \n![badge]()
-  \n! [Profile Image]()
+  \n![badge](${gitHub})
+  \n![Profile Image](${avatar})
   \nview the project in GitHub: ${data.url}
   \nFor any questions, please contact me directly at ${data.email}
 

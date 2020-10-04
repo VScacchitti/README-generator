@@ -1,6 +1,8 @@
 //require modules
 const fs = require("fs");
 const inquirer = require("inquirer");
+const generateMarkdown = require("./util/generateMarkdown");
+const gitHubInfo = require("./util/github");
 
 //Prompt function
 
@@ -66,8 +68,6 @@ function promptQuestions() {
   ]);
 }
 
-promptQuestions();
-
 //write README
 function writeFile(fileName, data) {
   fs.writeFile(fileName, data, "utf8", function (err) {
@@ -78,3 +78,15 @@ function writeFile(fileName, data) {
   });
 }
 //init function
+
+async function init() {
+  try {
+    const answers = await promptQuestions();
+    generateMarkdown(answers);
+    writeFile("README.md", generateMarkdown(answers));
+  } catch (err) {
+    console.log(err);
+  }
+}
+
+init();
