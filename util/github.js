@@ -9,7 +9,7 @@ const gitHubInfo = {
     inquirer
       .prompt({
         message: "What is your GitHub username?",
-        namd: "username",
+        name: "username",
       })
       // Getting Github info
       .then(function ({ username }) {
