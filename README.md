@@ -21,7 +21,7 @@
   ## License
   APACHE 2.0
   
-![badge](https://img.shields.io/badge/license-APACHE 2.0-blue.svg)
+![badge](https://img.shields.io/badge/license-APACHE2.0-blue.svg)
 
   ## Tests
   To Test, run the following command : npm run test
