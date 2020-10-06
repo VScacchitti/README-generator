@@ -21,7 +21,11 @@
   ## License
   MIT
   
+<<<<<<< HEAD
 ![badge](https://img.shields.io/badge/license-MIT-blue.svg)
+=======
+![badge](https://img.shields.io/badge/license-GPLv3-blue.svg)
+>>>>>>> 094affc0e874bca03f20b248c28a83659ddd2540
 
   ## Tests
   To Test: npm run test
