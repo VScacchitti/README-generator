@@ -28,7 +28,7 @@
  To Install : run npm install (note: you may need to include package name)
 
   ## Usage
-  Examples of program usage: TO write a README file for a Github repostisory
+  Examples of program usage: Can be used to write a README file for a GitHub repostisory
 
   ## License
   MIT
