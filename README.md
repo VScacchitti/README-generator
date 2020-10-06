@@ -4,8 +4,16 @@
   ## Description
   This application collects user prompted information and consildates and writes it into a README file.
   
-  ![Untitled_ Oct 6, 2020 8_52 AM](https://user-images.githubusercontent.com/67161794/95206175-5cf50000-07b4-11eb-9301-940a9e07d4f2.gif)
-
+  ![Screen Shot 2020-10-06 at 9 18 01 AM](https://user-images.githubusercontent.com/67161794/95206964-52873600-07b5-11eb-9fee-910452d7a4b4.png)
+  
+  ![Screen Shot 2020-10-06 at 9 18 30 AM](https://user-images.githubusercontent.com/67161794/95207007-5f0b8e80-07b5-11eb-8835-e2dba282d1b7.png)
+  
+  ![Screen Shot 2020-10-06 at 9 20 01 AM](https://user-images.githubusercontent.com/67161794/95207043-6af75080-07b5-11eb-90f3-42e2d3daf81a.png)
+  
+  ![Screen Shot 2020-10-06 at 9 20 40 AM](https://user-images.githubusercontent.com/67161794/95207083-76e31280-07b5-11eb-8d3d-fdfd3f10c09b.png)
+  
+  Video Demonstration: https://drive.google.com/file/d/1rubgHBXLmwPL2JkUGi_fl3WuyBh-E2mG/view
+  
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
