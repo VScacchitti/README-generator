@@ -26,6 +26,8 @@
   Packages required: inquirer and axios
   
  To Install : run npm install (note: you may need to include package name)
+ 
+ Install Video: https://drive.google.com/file/d/1-XIDJHeLe-3DaIv5NZyk2Qk4uHQ4cQMW/view 
 
   ## Usage
   Examples of program usage: Can be used to write a README file for a GitHub repostisory
@@ -48,6 +50,8 @@
 ![Profile Image](https://github.com/VScacchitti.png?size=50)
   
 View the project in GitHub: https://github.com/VScacchitti/README-generator
+
+View a Sample: https://github.com/VScacchitti/sampleREADME
   
 For any questions, please contact me directly: VScacchitti24@gmail.com
 
