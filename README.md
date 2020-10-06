@@ -4,7 +4,7 @@
   ## Description
   This application collects user prompted information and consildates and writes it into a README file.
   
-  <iframe src="https://drive.google.com/file/d/1rubgHBXLmwPL2JkUGi_fl3WuyBh-E2mG/preview" width="640" height="480"></iframe>
+  ![Untitled_ Oct 6, 2020 8_52 AM](https://user-images.githubusercontent.com/67161794/95206175-5cf50000-07b4-11eb-9301-940a9e07d4f2.gif)
 
   ## Table of Contents
   - [Installation](#installation)
