@@ -51,7 +51,7 @@
   
 View the project in GitHub: https://github.com/VScacchitti/README-generator
 
-View a Sample: https://github.com/VScacchitti/sampleREADME
+View a Sample: https://github.com/VScacchitti/sampleREADME/blob/main/README.md
   
 For any questions, please contact me directly: VScacchitti24@gmail.com
 
