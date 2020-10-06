@@ -2,26 +2,26 @@
   # README-Generator
 
   ## Description
-  This project collects user prompted information and generates a README file based on the information provided.
+  This project collects user prompted infro and generates a README file in markdown language.
 
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Tests] (#tests)
+  - [Tests](#tests)
   - [Contributors](#contributors)
   - [Details](#details)
 
   ## Installation
-  Packages required: inquirer, and axios
+  Packages required: inquirer and axios
 
   ## Usage
   Examples of program usage: This application can be used to quickly generate a README file for our projects.
 
   ## License
-  MIT
+  APACHE 2.0
   
-![badge](https://img.shields.io/badge/license-MIT-blue.svg)
+![badge](https://img.shields.io/badge/license-APACHE 2.0-blue.svg)
 
   ## Tests
   To Test, run the following command : npm run test
