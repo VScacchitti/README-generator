@@ -2,7 +2,7 @@
   # README-Generator
 
   ## Description
-  This prjoects collects user prompted README information and consilidates it into a neat clean README file.
+  This application collects user prompted information and consildates and writes it into a README file.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -14,18 +14,16 @@
 
   ## Installation
   Packages required: inquirer and axios
+  
+ To Install : run npm install (note: you may need to include package name)
 
   ## Usage
-  Examples of program usage: This application can be used to create a quick README file for a project.
+  Examples of program usage: TO write a README file for a Github repostisory
 
   ## License
   MIT
   
-
 ![badge](https://img.shields.io/badge/license-MIT-blue.svg)
-
-![badge](https://img.shields.io/badge/license-GPLv3-blue.svg)
-
 
   ## Tests
   To Test: npm run test

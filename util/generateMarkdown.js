@@ -20,6 +20,7 @@ function generateMarkdown(data) {
 
   ## Installation
   Packages required: ${data.installation}
+  \n To Install : run npm install (note: you may need to include package name)
 
   ## Usage
   Examples of program usage: ${data.usage}
