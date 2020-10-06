@@ -16,7 +16,7 @@ function generateMarkdown(data) {
   - [License](#license)
   - [Tests](#tests)
   - [Contributors](#contributors)
-  - [Details](#details)
+  - [Questions](#questions)
 
   ## Installation
   Packages required: ${data.installation}
@@ -29,7 +29,7 @@ function generateMarkdown(data) {
   \n![badge](${license})
 
   ## Tests
-  To Test, run the following command : ${data.tests}
+  To Test: ${data.tests}
 
   ## Contributors
   ${data.contributor}
@@ -37,8 +37,8 @@ function generateMarkdown(data) {
   ## Questions
   \n![badge](${gitHub})
   \n![Profile Image](${avatar})
-  \nview the project in GitHub: ${data.url}
-  \nFor any questions, please contact me directly at ${data.email}
+  \nView the project in GitHub: ${data.url}
+  \nFor any questions, please contact me directly: ${data.email}
 
 `;
 }

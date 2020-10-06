@@ -2,7 +2,7 @@
   # README-Generator
 
   ## Description
-  This project collects user prompted infro and generates a README file in markdown language.
+  This prjoects collects user prompted README information and consilidates it into a neat clean README file.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -10,21 +10,21 @@
   - [License](#license)
   - [Tests](#tests)
   - [Contributors](#contributors)
-  - [Details](#details)
+  - [Questions](#questions)
 
   ## Installation
   Packages required: inquirer and axios
 
   ## Usage
-  Examples of program usage: This application can be used to quickly generate a README file for our projects.
+  Examples of program usage: This application can be used to create a quick README file for a project.
 
   ## License
-  APACHE 2.0
+  MIT
   
-![badge](https://img.shields.io/badge/license-APACHE 2.0-blue.svg)
+![badge](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Tests
-  To Test, run the following command : npm run test
+  To Test: npm run test
 
   ## Contributors
   Vince Scacchitti
@@ -35,7 +35,7 @@
   
 ![Profile Image](https://github.com/VScacchitti.png?size=50)
   
-view the project in GitHub: https://github.com/VScacchitti/README-generator
+View the project in GitHub: https://github.com/VScacchitti/README-generator
   
-For any questions, please contact me directly at VScacchitti24@gmail.com
+For any questions, please contact me directly: VScacchitti24@gmail.com
 

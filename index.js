@@ -53,7 +53,7 @@ function promptQuestions() {
       name: "license",
       message: "What kind of license would you like to use?",
       name: "license",
-      choices: ["MIT", "APACHE 2.0", "GPL v3", "BSD 3", "No License"],
+      choices: ["MIT", "APACHE2.0", "GPLv3", "BSD3", "No License"],
     },
     {
       type: "input",
